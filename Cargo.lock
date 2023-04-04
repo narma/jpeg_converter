@@ -260,7 +260,7 @@ checksum = "2cf3affe27ffd9f1992690ec7575568b222abe9cb39738f6531968aca8e64906"
 
 [[package]]
 name = "jpeg_converter"
-version = "0.1.0"
+version = "1.0.1"
 dependencies = [
  "anyhow",
  "image",
